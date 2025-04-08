@@ -1,0 +1,10 @@
+icones pra usar
+
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+
+lupa 
+<i class='bx bx-search'></i>
+
+seta pra baixo 
+<i class='bx bxs-chevron-down' ></i>
